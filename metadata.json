@@ -1,0 +1,8 @@
+{
+  "name": "Which Way? — Directions Talk",
+  "description": "An interactive English speaking practice app helping Korean middle school students practice asking Leo for directions to the subway station across 3 scaffolding rounds.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
